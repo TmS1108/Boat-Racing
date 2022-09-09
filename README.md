@@ -1,10 +1,7 @@
 # Boat-Racing
-##Collaborators
 
--[Ching Xuen](https://github.com/muchenthusiast)
-
--[Manesh Sridharan](https://github.com/ManeshSridharan)
-
--[Ther Ming](https://github.com/ThrMing)
-
--[Benjamin Ooi]
+## Collaborators
+- [Ching Xuen](https://github.com/muchenthusiast)
+- [Ther Ming](https://github.com/ThrMing)
+- [Manesh Sridharan](https://github.com/ManeshSridharan)
+- [Benjamin Ooi]
